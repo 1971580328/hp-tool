@@ -2,6 +2,7 @@
 node_modules/
 unpackage/
 dist/
+es/
 .hbuilderx
 
 package-lock.json
